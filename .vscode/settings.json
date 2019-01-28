@@ -1,0 +1,23 @@
+{
+  "files.exclude": {
+    "**/*.sdf": true,
+    "**/*.opensdf": true,
+    "**/*.ddp": true,
+    "**/*.~cpp": true,
+    "**/*.~h": true,
+    "**/*.~rc": true,
+    "**/*.~bpf": true,
+    "**/*.~bpr": true,
+    "**/*.~dsk": true,
+    "**/*.~ddp": true,
+    "**/*.~dfm": true,
+    "**/*.dsk": true,
+    "**/*.mes": true,
+    "**/*.res": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/intermediate": true
+  }
+}
